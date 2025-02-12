@@ -1,6 +1,6 @@
 # Hysch: Technical Solution for Managing High Sounds in Study Environments
 
-High sounds in study environments can negatively impact many individuals. This report presents a technical solution called "Hysch" to prevent high sounds using Arduino MKR, a MKR connector carrier, a microphone, and a speaker.
+High sounds in study environments can negatively impact many individuals. This repo presents a technical solution called "Hysch" to prevent high sounds using Arduino MKR, a MKR connector carrier, a microphone, and a speaker.
 
 ## Components Used
 - Arduino MKR
